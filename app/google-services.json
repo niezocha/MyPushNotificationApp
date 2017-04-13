@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "296111733022",
+    "firebase_url": "https://mypushnotificationapp-25648.firebaseio.com",
+    "project_id": "mypushnotificationapp-25648",
+    "storage_bucket": "mypushnotificationapp-25648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296111733022:android:9de66d774e6b7589",
+        "android_client_info": {
+          "package_name": "com.example.zofia.mypushnotificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296111733022-i4i5g5i55ua3du36bbu2sgv3t93q0lue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zofia.mypushnotificationapp",
+            "certificate_hash": "6fa813ed0bdf8f2533a7b83645d5ac5208b30adb"
+          }
+        },
+        {
+          "client_id": "296111733022-ommj9u9d1mk8n2g1uuptjramnn937csb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDShXP88VL_-takd5l1qqWUlE5SA1Dq10c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296111733022-ommj9u9d1mk8n2g1uuptjramnn937csb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

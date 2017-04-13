@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyPushNotificationApp</string>
+    <string name="my_super_notification">My notification </string>
 </resources>
